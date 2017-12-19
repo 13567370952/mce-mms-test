@@ -6,7 +6,7 @@
 	<groupId>com.didispace</groupId>
 	<artifactId>compute-service</artifactId>
 	<version>1.0.0</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>compute-service</name>
 	<description>Spring Cloud project</description>
